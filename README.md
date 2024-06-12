@@ -20,3 +20,6 @@
 
 
 
+### O resultado pode ser conferido abaixo:
+
+![resultado](https://github.com/majuliah/RabbitMQ/blob/main/imgs/exemploPratico.png?raw=true)
